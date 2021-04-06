@@ -13,3 +13,15 @@ git add --a
 git commit -m "message"
 
 git push --all
+
+<-- add a remote -->
+
+/* Create a repository in github and copy the url*/
+
+git remote add origin <<copied url>>
+
+check current orgin url
+git remote -v
+
+if wants to change url
+git remote set-url <<new_url>>
