@@ -1,0 +1,15 @@
+<-- setting up -->
+git config --global user.name "user_name"
+
+
+git config --global user.email "user_email"
+
+<-- Commands -->
+
+touch filename.extention
+
+git add --a
+
+git commit -m "message"
+
+git push --all
