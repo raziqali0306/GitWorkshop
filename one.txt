@@ -1,2 +1,1 @@
-This is my PC.
-My name is Ali. 
+Hi! this is Ali. This file is written to be pushed into Git repository
