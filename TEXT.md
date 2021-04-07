@@ -26,6 +26,3 @@
     return 0;
   }
 ```
-
-  def fun(): 
-    cout << "Hello;
