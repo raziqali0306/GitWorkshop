@@ -16,3 +16,16 @@
 ***Strong Emphasized Text***
 
 [Facebook](www.facebook.com)  for links: [Text]_(link)
+
+
+
+
+```c++
+  void main(){
+    cout << "Hello World";
+    return 0;
+  }
+```
+
+  def fun(): 
+    cout << "Hello;
