@@ -1,5 +1,3 @@
-Documentation
-
 <-- setting up -->
 git config --global user.name "user_name"
 
